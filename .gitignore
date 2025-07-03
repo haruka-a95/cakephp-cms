@@ -53,3 +53,5 @@ yarn-debug.log
 yarn-error.log
 #.github/workflows/
 .github/workflows/
+#.env
+.env
